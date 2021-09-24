@@ -1,9 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwin</h1>
-<h3 align="left">🎓 I’m a FullStack developer & Completed my Bachelors in Computer Science & Engineering from SATI Vidisha.</h3>
-<h3 align="left">👨‍💻 I am passionate about Web Dev, Solving Problems & I enjoy  learning new things daily..
-</h3>
+🎓 I’m a FullStack developer & Completed my Bachelors in Computer Science & Engineering from SATI Vidisha.<br/>
+👨‍💻 I’m passionate about Web Development, Solving Problems & I enjoy learning new things daily..
 <br/>
 
 ## 🙋‍♂️ About Me 
@@ -13,7 +12,6 @@
 - 🌱 I’m currently working on **Data Structures & Algorithms and Problem Solving skills.**
 - 🌱 I’m currently learning **Spring Boot and Angular.**
   
-
 - 👯 I’m looking forward to collaborate on **OpenSource Projects.**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com) -->
@@ -53,8 +51,7 @@
 
 <p align="center">
    <!-- <a href="https://github.com/ashwinmadke0813/github-readme-streak-stats"> -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashwin Madke's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinmadke0813&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashwin Madke's streak "src="https://github-readme-streak-stats.herokuapp.com?user=ashwinmadke0813&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 ## 📊 My Github Stats
@@ -67,8 +64,8 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/ashwinmadke0813/github-readme-activity-graph"><img alt="Ashwin Madke's Activity Graph "src="https://activity-graph.herokuapp.com/graph?username=ashwinmadke0813&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--
+<a href="https://github.com/ashwinmadke0813/github-readme-activity-graph"> --> <img alt="Ashwin Madke's Activity Graph "src="https://activity-graph.herokuapp.com/graph?username=ashwinmadke0813&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -85,7 +82,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/ashwinmadke0813/github-profile-views-counter">
+<!--<a href="https://github.com/ashwinmadke0813/github-profile-views-counter"> -->
 <img src="https://komarev.com/ghpvc/?username=ashwinmadke0813">
 </a>
 <a href="https://github.com/ashwinmadke0813?tab=followers"><img src="https://img.shields.io/github/followers/ashwinmadke0813?label=Followers&style=social" alt="GitHub Badge"></a>
