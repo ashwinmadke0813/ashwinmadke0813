@@ -52,7 +52,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ashwinmadke0813/github-readme-streak-stats">
+   <!-- <a href="https://github.com/ashwinmadke0813/github-readme-streak-stats"> -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ashwin Madke's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinmadke0813&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -60,15 +60,15 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ashwinmadke0813/github-readme-stats"><img alt="Ashwin Madke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashwinmadke0813&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ashwinmadke0813/github-readme-stats"><img alt="Ashwin Madke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinmadke0813&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!--  <a href="https://github.com/ashwinmadke0813/github-readme-stats"> --> <img alt="Ashwin Madke's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashwinmadke0813&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<!--  <a href="https://github.com/ashwinmadke0813/github-readme-stats"> --> <img alt="Ashwin Madke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinmadke0813&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.
 
 <br/>
 <br/>
 
-<a href="https://github.com/ashwinmadke0813/github-readme-activity-graph"><img alt="Ashwin Madke's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashwinmadke0813&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashwinmadke0813/github-readme-activity-graph"><img alt="Ashwin Madke's Activity Graph "src="https://activity-graph.herokuapp.com/graph?username=ashwinmadke0813&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
