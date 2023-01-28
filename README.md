@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashwin</h1>
+<h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Ashwin</h1>
 🎓 I’m a FullStack developer & Completed my Bachelors in Computer Science & Engineering from SATI Vidisha.<br/>
 👨‍💻 I’m passionate about Web Development, Solving Problems & I enjoy learning new things daily..
 <br/>
@@ -73,7 +73,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/ashwin-madke-70b474154/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ashwinmadke0813/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ashwinmadke0813"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ashwinmadke0813/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
