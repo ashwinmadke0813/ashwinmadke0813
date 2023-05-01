@@ -1,16 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Ashwin</h1>
-🎓 I’m a FullStack developer & Completed my Bachelors in Computer Science & Engineering from SATI Vidisha.<br/>
+🎓 I’m a FullStack Developer & Completed my Bachelors in Computer Science & Engineering from SATI Vidisha.<br/>
 👨‍💻 I’m passionate about Web Development, Solving Problems & I enjoy learning new things daily..
 <br/>
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m currently working on MERN Stack Project **[Blog Application]**
-
-- 🌱 I’m currently working on **Data Structures & Algorithms and Problem Solving skills.**
-- 🌱 I’m currently learning **Spring Boot and Angular.**
+- 💻 I’m currently working in Wipro as an**[Analyst]**
+- 💻 I’m currently working on **Data Structures & Algorithms and Problem Solving skills.**
+- 📖 I’m currently learning **Spring Boot ,React & AWS.**
   
 - 👯 I’m looking forward to collaborate on **OpenSource Projects.**
 
@@ -64,8 +63,8 @@
 
 <br/>
 <br/>
-<!--
-<a href="https://github.com/ashwinmadke0813/github-readme-activity-graph"> --> <img alt="Ashwin Madke's Activity Graph "src="https://activity-graph.herokuapp.com/graph?username=ashwinmadke0813&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/ashwinmadke0813/github-readme-activity-graph">  <img alt="Ashwin Madke's Activity Graph "src="https://activity-graph.herokuapp.com/graph?username=ashwinmadke0813&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
