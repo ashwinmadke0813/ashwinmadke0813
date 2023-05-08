@@ -76,7 +76,7 @@
 <a href = "https://twitter.com/ashwinmadke0813"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/ashwinmadke0813/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
-<a href="mailto:ashwin.saticse2020@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png">
+<a href="mailto:ashwin.saticse2020@gmail.com" ><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png">
  
 </p>
 
